@@ -2,7 +2,7 @@
 
 This project is a web-based application designed to predict heart disease using machine learning techniques. It is developed with Django for the backend functionality and HTML, CSS, and JavaScript for the frontend interface. The application analyzes various health metrics inputted by the user to deliver accurate predictions regarding the likelihood of heart disease.
 
-Project Description
+
 ## Project Description
 
 The Heart Disease Predictor System utilizes advanced machine learning algorithms to forecast heart disease based on factors such as smoking habits, age, physical health, and more. It provides precise predictions crucial for diagnosis and prevention.
