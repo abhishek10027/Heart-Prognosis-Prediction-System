@@ -74,4 +74,4 @@ The accuracy of each model is calculated on the test dataset, and the **Logistic
 
 ## About the Developer
 
-This project is developed by Abhishek Kushwaha.
+This project is developed by **Abhishek Kushwaha**.
