@@ -72,6 +72,24 @@ The accuracy of each model is calculated on the test dataset, and the **Logistic
 
 3. Open the application in a web browser at like http://localhost:8000.
 
+## Conclusion
+
+The Heart-Prognosis-Prediction-System is a powerful tool designed to assist in the early detection and prevention of heart disease. By leveraging machine learning techniques and a user-friendly interface, the application provides accurate predictions based on inputted health data.
+
+With its responsive design and precise predictions, this system aims to empower individuals to take proactive steps towards maintaining heart health. By identifying risk factors and providing personalized insights, it contributes to better healthcare outcomes and enhances overall well-being.
+
+The accuracy of the Heart-Prognosis-Prediction-System's prediction models is an impressive 99%, ensuring reliable and trustworthy results for users. This high level of accuracy instills confidence in the system's ability to make informed predictions and assist healthcare professionals in making timely interventions.
+
+As the project continues to evolve, future enhancements may include incorporating additional features, expanding the dataset for improved accuracy, and integrating with healthcare systems for seamless patient care.
+
+With a commitment to innovation and excellence, the Heart-Prognosis-Prediction-System remains dedicated to advancing heart disease prediction and prevention for the betterment of society.
+
 ## About the Developer
 
 This project is developed by **Abhishek Kushwaha**.
+
+**LinkedIn:** https://www.linkedin.com/in/abhishek10027
+
+**GitHub:**  https://github.com/abhishek10027
+
+🚀🔍📈
