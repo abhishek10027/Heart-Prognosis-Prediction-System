@@ -1,8 +1,8 @@
 # Heart-Prognosis-Prediction-System
 
+This project is a web-based application designed to predict heart disease using machine learning techniques. It is developed with Django for the backend functionality and HTML, CSS, and JavaScript for the frontend interface. The application analyzes various health metrics inputted by the user to deliver accurate predictions regarding the likelihood of heart disease.
 
-The Heart Disease Predictor Application is a web-based platform designed to predict the likelihood of heart disease using machine learning techniques. It allows users to input various health metrics and obtain accurate predictions regarding their risk of heart-related ailments.
-
+Project Description
 ## Project Description
 
 The Heart Disease Predictor System utilizes advanced machine learning algorithms to forecast heart disease based on factors such as smoking habits, age, physical health, and more. It provides precise predictions crucial for diagnosis and prevention.
@@ -22,11 +22,20 @@ The best model for predicting heart disease is selected based on accuracy. The f
 3. **DecisionTreeClassifier:** Versatile classification algorithm capable of capturing complex decision boundaries.
 4. **LinearSVC:** Variant of Support Vector Machine suitable for linearly separable data.
 
-The accuracy of each model is calculated on the test dataset, and the **Logistic Regression model**,  is chosen as one of the models for prediction.
+The accuracy of each model is calculated on the test dataset, and the **Logistic Regression model** is chosen as one of the models for prediction.
 
-## New User Input for Prediction
+## Steps for Prediction
 
-To predict the likelihood of heart disease for a new user, the application requires the following significant features:
+1. *Open the application in a web browser.*
+
+   ![home_r1](https://github.com/abhishek10027/Heart-Prognosis-Prediction-System/assets/132592735/4c92ec35-ebaa-403e-924c-fa47513ab806)
+
+2. *Click on the "Let's Predict" button to input your health data.*
+
+   ![form_r1](https://github.com/abhishek10027/Heart-Prognosis-Prediction-System/assets/132592735/0a0191a9-27e1-46d1-8464-89125c75d046)
+
+3. *Fill out the form with relevant information such as smoking habits, age, physical health score, etc.*
+ To predict the likelihood of heart disease for a new user, the application requires the following significant features:
 
 - Smoking (1 for Yes, 0 for No)
 - Stroke (1 for Yes, 0 for No)
@@ -38,7 +47,11 @@ To predict the likelihood of heart disease for a new user, the application requi
 - Body Mass Index (BMI)
 - Kidney Disease (1 for Yes, 0 for No)
 
-Fill out the form with the appropriate values for each feature and submit to generate the prediction result.
+4. *Click the "Submit" button to generate the prediction result.*
+5. *View the prediction result to see the likelihood of heart disease.*
+
+   ![result_r1](https://github.com/abhishek10027/Heart-Prognosis-Prediction-System/assets/132592735/8bd34c07-b5a7-45e2-91cc-4b05cc8d171f)
+
 
 ## Dependencies
 
@@ -57,7 +70,8 @@ Fill out the form with the appropriate values for each feature and submit to gen
    python manage.py runserver
    ```
 
-3. Open the application in a web browser at http://localhost:8000.
+3. Open the application in a web browser at like http://localhost:8000.
 
+## About the Developer
 
-## This project is developed by Abhishek Kushwaha
+This project is developed by Abhishek Kushwaha.
